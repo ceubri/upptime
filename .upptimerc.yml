@@ -1,6 +1,8 @@
 # Change these first
 owner: ceubri # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+interval: 5 # Vérification toutes les 5 minutes
+graphs-interval: 24 # Graphiques mis à jour une fois par jour
 
 sites:
   - name: whynotprod
