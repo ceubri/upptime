@@ -31,4 +31,6 @@ status-website:
       href: https://github.com/ceubri/upptime
 
 # Upptime also supports notifications, assigning issues, and more
+assignees:
+  - ceubri
 # See https://upptime.js.org/docs/configuration
