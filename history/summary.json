@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 561,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "time": 535,
+    "timeDay": 526,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 543,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "time": 481,
+    "timeDay": 455,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 493,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "time": 492,
+    "timeDay": 477,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cettesitedunimportequoiextravagant1234.fr.ico",
     "slug": "mon-test-alerte",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.02%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "94.02%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "94.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-23": 4
+    }
   }
 ]
