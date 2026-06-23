@@ -11,8 +11,8 @@ sites:
     url: https://adelinevouscoiffe.fr/
   - name: Cmettavant
     url: https://cmettavant.fr/
-  - name: Test Broken Site
-    url: https://cettesitedunimportequoiextravagant.fr
+  - name: Mon Test Alerte
+    url: https://cettesitedunimportequoiextravagant1234.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
